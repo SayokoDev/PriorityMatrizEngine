@@ -1,0 +1,1 @@
+haz una interfaz moderna para android con flet en el archivo main.py que haga que todas las funciones que ya hace el archivo tareas_prioridad_oop.py que las hace solo en consola que se hagan en esa interfas como crear tareas, modificarlas,mostrar todas las tareas, mostrar solo las sin completar todo con una UI/UX agradable para el usuario y todo que se haga de forma intuitiva
